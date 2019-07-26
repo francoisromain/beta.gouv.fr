@@ -23,7 +23,7 @@ Nous cherchons spécifiquement quelqu’un pour nous appuyer sur notre mission d
 
 ## Ce qui peut-être difficile ou rébarbatif :
 - Cela peut être répétitif d’appeler différentes collectivités, gestionnaires de parkings ou aéroports un par un pour les convaincre de publier ou mettre en qualité leurs données.
-- L’ouverture des données est loin de faire l’unanimité, vous pourez avoir affaire à des interlocuteurs cassants qu’il faudra ménager.
+- L’ouverture des données est loin de faire l’unanimité, vous pourrez avoir affaire à des interlocuteurs cassants qu’il faudra ménager.
 - La collecte et mise en forme de données est un travail de fourmis, qui demande de la rigueur et de la minutie.
 
 ## Ce qui est enthousiasmant dans la mission:
@@ -34,4 +34,4 @@ Nous cherchons spécifiquement quelqu’un pour nous appuyer sur notre mission d
 - Comprendre toute la chaîne de création de valeur des données ouvertes, depuis la production de données à leur circulation et réutilisation.
 - Travailler à concilier des intérêts parfois divergents et trouver des solutions pragmatiques pour débloquer des situations de blocage ou de conflit.
 
-Si la mission vous intéresse, contactez Béatrice pour convenir d'un moment échange (beatrice.mercier@beta.gouv.fr). 
+Si la mission vous intéresse, contactez [recrutement@beta.gouv.fr](recrutement@beta.gouv.fr). 
